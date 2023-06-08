@@ -1405,9 +1405,6 @@
     (path "/62043049-830f-4125-8172-bd9fb8bde481"
       (reference "#PWR09") (unit 1) (value "+5V") (footprint "")
     )
-    (path "/18a28627-1db1-4a0b-947d-f716714df9ad/433263ad-421c-4d9d-9eb8-5270e1a68252/29d40cdf-441a-4f38-891f-8cd2bb002f0c"
-      (reference "#PWR010") (unit 1) (value "+5V") (footprint "")
-    )
     (path "/18a28627-1db1-4a0b-947d-f716714df9ad/30b2f70b-b676-470e-8c96-0741314c5460"
       (reference "#PWR011") (unit 1) (value "+5V") (footprint "")
     )
@@ -1422,15 +1419,6 @@
     )
     (path "/18a28627-1db1-4a0b-947d-f716714df9ad/433263ad-421c-4d9d-9eb8-5270e1a68252/73490936-e5d3-496a-a032-5da108063763"
       (reference "#PWR015") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/18a28627-1db1-4a0b-947d-f716714df9ad/e1213ed7-3bd9-4053-a43b-34a7ddeb7a9b"
-      (reference "#PWR016") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/18a28627-1db1-4a0b-947d-f716714df9ad/433263ad-421c-4d9d-9eb8-5270e1a68252/2df2db6a-9c8d-40d5-81dd-2d3c2c527728"
-      (reference "#PWR020") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/18a28627-1db1-4a0b-947d-f716714df9ad/433263ad-421c-4d9d-9eb8-5270e1a68252/69a2de66-3ad0-411d-bc38-d69225516b18"
-      (reference "#PWR025") (unit 1) (value "GND") (footprint "")
     )
     (path "/18a28627-1db1-4a0b-947d-f716714df9ad/433263ad-421c-4d9d-9eb8-5270e1a68252/84aba0d4-8764-482d-a54a-231ab4bd6f4f"
       (reference "#PWR030") (unit 1) (value "GND") (footprint "")
@@ -1489,18 +1477,6 @@
     (path "/18a28627-1db1-4a0b-947d-f716714df9ad/433263ad-421c-4d9d-9eb8-5270e1a68252/b73c0be4-0400-4662-ab02-30470ba9239b"
       (reference "R6") (unit 1) (value "100k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
     )
-    (path "/18a28627-1db1-4a0b-947d-f716714df9ad/136265e3-988b-42a9-a388-76402f083b71"
-      (reference "R7") (unit 1) (value "1k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
-    )
-    (path "/18a28627-1db1-4a0b-947d-f716714df9ad/0168d63f-e111-4173-a6fa-a5eb30aa7c5d"
-      (reference "R25") (unit 1) (value "100k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
-    )
-    (path "/18a28627-1db1-4a0b-947d-f716714df9ad/433263ad-421c-4d9d-9eb8-5270e1a68252/2eee23e0-001e-42f4-8662-2b4937c94d00"
-      (reference "R26") (unit 1) (value "10k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
-    )
-    (path "/18a28627-1db1-4a0b-947d-f716714df9ad/433263ad-421c-4d9d-9eb8-5270e1a68252/770a9915-9e55-41ed-9c2b-bf2a20f7436e"
-      (reference "R27") (unit 1) (value "10k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
-    )
     (path "/18a28627-1db1-4a0b-947d-f716714df9ad/433263ad-421c-4d9d-9eb8-5270e1a68252/873ee159-784c-4a33-ae80-0fb1d409017d"
       (reference "R28") (unit 1) (value "10k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
@@ -1514,7 +1490,7 @@
       (reference "RV1") (unit 1) (value "1k") (footprint "Potentiometer_THT:Potentiometer_Piher_PT-10-V10_Vertical")
     )
     (path "/18a28627-1db1-4a0b-947d-f716714df9ad/433263ad-421c-4d9d-9eb8-5270e1a68252/4edd3aad-1fdd-4c87-b068-4e12ebe0fddc"
-      (reference "RV5") (unit 1) (value "1k") (footprint "Potentiometer_THT:Potentiometer_Piher_PT-10-V10_Vertical")
+      (reference "RV5") (unit 1) (value "250") (footprint "Potentiometer_THT:Potentiometer_Piher_PT-10-V10_Vertical")
     )
     (path "/18a28627-1db1-4a0b-947d-f716714df9ad/433263ad-421c-4d9d-9eb8-5270e1a68252/3fb694cd-b5ea-42a1-9f6f-ebbe00379c76"
       (reference "U1") (unit 1) (value "LM324") (footprint "Package_DIP:DIP-14_W7.62mm")
