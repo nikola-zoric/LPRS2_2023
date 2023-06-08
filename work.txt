@@ -5,7 +5,20 @@
 
 - CNC
 	CNC panel for GRBL control (Candle)
+		- jog pb -> Jog: arrows
+		- user pb -> User commands: 1 2 3 4
+		- feed sw -> Overriding: Feed rate
+		- spindle sw -> Overriding: Feed rate
+		- jog sw -> Jog: step
+		- mushroom -> Jog: stop
 	CNC handle for GRBL control (Candle)
+		- enc + axis sw -> Jog: arrows
+		- jog sw -> Jog: step
+		- spindle sw -> Spindle: Speed
+		- mushroom -> Jog: stop
+	- Common:
+		- SW with 74LS166
+		- Mushroom
 	- On change:
 		- Msg example: enc=-1 axis=3 rate=2 stop=0
 		- Msg example: jog_up=1 stop=0
